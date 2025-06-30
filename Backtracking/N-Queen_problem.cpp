@@ -3,6 +3,7 @@
    Stay Focused!
 */
 
+
 #include<bits/stdc++.h>
 using namespace std;
 int board[11][11];
